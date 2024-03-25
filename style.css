@@ -1,0 +1,84 @@
+body{
+    font-family: Tahoma;
+}
+button{
+    color: #ffffff;
+    background-color: #27005D;
+    height: 66px;
+    width: 360px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 19px 90px;
+    border-radius: 5px;
+}
+
+/*Navigation bar*/
+.navbar li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 100px; /* Optional: Add some spacing between items */
+}
+
+.navbar li a {
+    color: #000000;
+    font-size: 16px;
+    font-weight: lighter;
+    text-decoration: none;
+
+}
+
+/*Hero-section*/
+
+.hero{
+    background-color:#27005D;
+    position: absolute;
+    right: 10px;
+    bottom: -1px;
+    top: 120px;
+    margin-top: ;
+    width: 500px;
+    height: 300px;
+
+}
+.hero img{
+    margin-top: -166px;
+    margin-left: -100px;
+    padding-bottom: 50px;
+
+   
+}
+
+
+.hero1{
+    color: #27005D;
+    font-size: 40px;
+    font-weight: bold;
+}
+.hero2{
+    color: #27005D;
+    font-size: 40px;
+    font-weight: bold;
+}
+.subhero{
+    color: #B4B4B3;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.explore1 h2{
+    font-size: 20px;
+}
+
+.explore1 button{
+    font-size: 20px
+
+    }
+
+   .colt-tutorial{
+        font-family: Arial;
+        background-color: #151b29;
+        height: 50px;
+        width: 30px;
+        font-size: 16px;
+        padding: 10px 50px;
+    }
